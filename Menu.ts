@@ -117,11 +117,11 @@ export function main() {
 
 /* Função com os dados da pessoa desenvolvedora */
 function sobre(): void {
-    console.log("\n*****************************************************");
+    console.log("\n******************************************************");
     console.log("Projeto Desenvolvido por: ");
     console.log("Patricia Souza da Rosa - patriciasdrtech@gmail.com");
     console.log("https://github.com/Patriciasdr");
-    console.log("*****************************************************");
+    console.log("******************************************************");
 }
 
 function keyPress(): void {
