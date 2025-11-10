@@ -119,8 +119,8 @@ export function main() {
 function sobre(): void {
     console.log("\n*****************************************************");
     console.log("Projeto Desenvolvido por: ");
-    console.log("Generation Brasil - generation@generation.org");
-    console.log("github.com/conteudoGeneration");
+    console.log("Patricia Souza da Rosa - patriciasdrtech@gmail.com");
+    console.log("https://github.com/Patriciasdr");
     console.log("*****************************************************");
 }
 
